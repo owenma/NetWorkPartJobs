@@ -1,4 +1,4 @@
-NetWorkPartJobs
+Mybatis generator tools
 ===============
 
-这是一个提供网络兼职的神奇的网站。
+生成pojo工具。
